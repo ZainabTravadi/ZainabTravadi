@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://leetcode.com/u/_zn_/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="31" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.kaggle.com/zainabtravadi">
@@ -10,7 +10,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/zainab-travadi-119a83373/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
   </a>
 </p>
 
