@@ -12,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
 </a>
 
+
 I am Zainab Travadi, a Computer Science Student and AI Explorer who enjoys building practical projects that solve real problems.  
 I love experimenting with machine learning, full-stack development, and creating tools that people can actually use.
 
