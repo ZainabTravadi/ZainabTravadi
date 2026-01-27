@@ -1,4 +1,4 @@
-## Hey There 👋
+## Hey There, I'm Zainab 👋🌷
 
 <p>
   <a href="https://leetcode.com/u/_zn_/">
@@ -11,28 +11,21 @@
 </p>
 
 <br/>
-## hi, i’m zainab 👋💻
 
 backend-leaning software engineer  
 interested in **api infrastructure, developer tooling, and scalable systems** (along with binge watching Suits)⚙️
 
 ---
 
-## 🔵 currently building
+## 💌 Currently building
 
 ### **RateGuard** ⚡
 a developer-first **rate limiting as a service** platform.
 
 - 🔐 protect specific api routes using a lightweight sdk  
 - 📊 manage rules, analytics, and logs from a central dashboard  
-- 🧩 separate enforcement logic from application code  
-
-focus areas:
-- 🧠 api design  
-- 🧱 middleware patterns  
-- 📐 rule evaluation  
-- 👀 observability & analytics  
-- 🧰 sdk ergonomics  
+- 🧩 separate enforcement logic from application code
+- focus areas: 🧠 api design 🧱 middleware patterns 📐 rule evaluation 👀 observability & analytics 🧰 sdk ergonomics  
 
 ---
 
@@ -40,23 +33,20 @@ focus areas:
 
 these repos show **range + polish**, alongside my core backend work:
 
-- 🔗 **Shortify — URL Shortener**  
+- 🔗 [Shortify](https://github.com/ZainabTravadi/Shortify-Url-Shortener)  
   backend-focused URL shortener with clean API design  
-  https://github.com/ZainabTravadi/Shortify-Url-Shortener
   
-- ☕ **Still At The Café**  
+- ☕ [Still At The Café](https://github.com/ZainabTravadi/Still-At-The-Cafe)
   cozy ambient focus app with café sounds, pomodoro, and minimal UI  
-  https://github.com/ZainabTravadi/Still-At-The-Cafe
 
-- 🌸 **Cozy To-Do List**  
+- 🌸 [Cozy To-Do List](https://github.com/ZainabTravadi/Cozy-To-Do-List) 
   soft, minimal task planner focused on calm productivity  
-  https://github.com/ZainabTravadi/Cozy-To-Do-List
 
 _(learning projects are archived — this space is intentional)_ ✨
 
 ---
 
-## 📊 activity & contributions
+## 💕 activity & contributions
 
 i value:
 - 🌱 consistent contributions  
@@ -65,21 +55,9 @@ i value:
 
 most work lives around:
 - ⚙️ backend services  
-- 📦 sdk development  
-- 🖥️ dashboard features  
+- 📦 frontend development   
 - 📝 documentation & cleanup  
 
 ---
 
-## 🌿 currently improving
-
-- 🏗️ system design fundamentals  
-- 🚦 backend scalability patterns  
-- 💥 api reliability & failure handling  
-- ✍️ technical writing  
-
----
-
-## 🤝 open to
-
-- 🌍 meaningful open-source contributions   
+## 🤝🌍 open to meaningful open-source contributions   
