@@ -15,8 +15,6 @@
 backend-leaning software engineer  
 interested in **api infrastructure, developer tooling, and scalable systems** (along with binge watching Suits)⚙️
 
----
-
 ## 💌 Currently building
 
 ### **RateGuard** ⚡
@@ -26,8 +24,6 @@ a developer-first **rate limiting as a service** platform.
 - 📊 manage rules, analytics, and logs from a central dashboard  
 - 🧩 separate enforcement logic from application code
 - focus areas: 🧠 api design 🧱 middleware patterns 📐 rule evaluation 👀 observability & analytics 🧰 sdk ergonomics  
-
----
 
 ## 📌 pinned repositories
 
@@ -44,8 +40,6 @@ these repos show **range + polish**, alongside my core backend work:
 
 _(learning projects are archived — this space is intentional)_ ✨
 
----
-
 ## 💕 activity & contributions
 
 i value:
@@ -56,8 +50,6 @@ i value:
 most work lives around:
 - ⚙️ backend services  
 - 📦 frontend development   
-- 📝 documentation & cleanup  
-
----
+- 📝 documentation & cleanup
 
 ## 🤝🌍 open to meaningful open-source contributions   
