@@ -35,7 +35,7 @@ these repos show **range + polish**, alongside my core backend work:
 - ☕ [Still At The Café](https://github.com/ZainabTravadi/Still-At-The-Cafe)
   cozy ambient focus app with café sounds, pomodoro, and minimal UI
 
-- 🌸 [My Valentine Bouquet](https://github.com/ZainabTravadi/myValentineBouquet) 
+- ❤️ [My Valentine Bouquet](https://github.com/ZainabTravadi/myValentineBouquet) 
   this valentine, create a customized bouquet for your loved one
 
 - 🌸 [Cozy To-Do List](https://github.com/ZainabTravadi/Cozy-To-Do-List) 
