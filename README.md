@@ -33,7 +33,10 @@ these repos show **range + polish**, alongside my core backend work:
   backend-focused URL shortener with clean API design  
   
 - ☕ [Still At The Café](https://github.com/ZainabTravadi/Still-At-The-Cafe)
-  cozy ambient focus app with café sounds, pomodoro, and minimal UI  
+  cozy ambient focus app with café sounds, pomodoro, and minimal UI
+
+- 🌸 [My Valentine Bouquet](https://github.com/ZainabTravadi/myValentineBouquet) 
+  this valentine, create a customized bouquet for your loved one
 
 - 🌸 [Cozy To-Do List](https://github.com/ZainabTravadi/Cozy-To-Do-List) 
   soft, minimal task planner focused on calm productivity  
