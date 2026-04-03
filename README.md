@@ -56,3 +56,5 @@ most work lives around:
 - 📝 documentation & cleanup
 
 ## 🤝🌍 open to meaningful open-source contributions   
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainabTravadi&theme=tokyo-night&hide_border=true&area=true)
