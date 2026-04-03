@@ -57,4 +57,4 @@ most work lives around:
 
 ## 🤝🌍 open to meaningful open-source contributions   
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainabTravadi&bg_color=fff0f5&color=ff69b4&line=ff1493&point=ff69b4&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainabTravadi&bg_color=00000000&color=ff69b4&line=ff1493&point=ff69b4&area=true&hide_border=true)
