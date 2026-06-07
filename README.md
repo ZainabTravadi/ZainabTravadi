@@ -12,18 +12,35 @@
 
 <br/>
 
-backend-leaning software engineer  
+🌷 software engineer • ✨ open source contributor • 🩷 builder of developer tools  
 interested in **api infrastructure, developer tooling, and scalable systems** (along with binge watching Suits)⚙️
 
-## 💌 Currently building
+🌸 Portfolio: [Click here](https://zainab-travadis-portfolio.vercel.app/)
 
-### **RateGuard** ⚡
-a developer-first **rate limiting as a service** platform.
+## 💌 Currently
 
-- 🔐 protect specific api routes using a lightweight sdk  
-- 📊 manage rules, analytics, and logs from a central dashboard  
-- 🧩 separate enforcement logic from application code
-- focus areas: 🧠 api design 🧱 middleware patterns 📐 rule evaluation 👀 observability & analytics 🧰 sdk ergonomics  
+- 🌱 Open Source Contributor — GSSoC 2026
+- ⚡ Building backend-focused products and developer tools
+- 🧠 Practicing DSA & system design
+- 🔧 Contributing to production-grade open source repositories
+- 🚀 Shipping TokenWatch, RateGuard, and AlumniNet
+
+## 🏗 Featured Projects
+
+### ⚡ TokenWatch
+Multi-tenant observability platform for monitoring LLM usage, token consumption, and API costs.
+
+**Stack:** TypeScript • React • Express • PostgreSQL
+
+### 🛡️ RateGuard
+Distributed rate-limiting infrastructure with Redis-backed atomic enforcement and sub-millisecond checks.
+
+**Stack:** Node.js • Redis • Docker • Fastify
+
+### 🎓 AlumniNet
+Private college-verified network connecting students and alumni through mentorship, referrals, jobs, events, and community engagement.
+
+**Stack:** React • Node.js • MongoDB • TypeScript
 
 ## 📌 pinned repositories
 
@@ -45,15 +62,29 @@ _(learning projects are archived — this space is intentional)_ ✨
 
 ## 💕 activity & contributions
 
-i value:
-- 🌱 consistent contributions  
-- 🔧 iterative improvement  
-- 🧹 refactoring as learning  
+### 🌸 Open Source
 
-most work lives around:
-- ⚙️ backend services  
-- 📦 frontend development   
-- 📝 documentation & cleanup
+Contributions across:
+
+- 🩷 fortran-lang/fpm
+- 💎 Hyperledger Cacti
+- 🌷 Hiero SDK
+- ✨ TermUI
+- 🎀 CodeGraphContext
+
+### Impact
+
+- 🔥 59+ Pull Requests Opened
+- ✅ 29 Merged Contributions
+- 📦 8+ Repositories Contributed To
+- 🛠️ 37 Issues Resolved
+
+Areas I enjoy working in:
+
+- 🌱 Backend Engineering
+- 🔧 Developer Tooling
+- 🧹 CI/CD Systems
+- 🌱 Open Source Infrastructure
 
 ## 🤝🌍 open to meaningful open-source contributions   
 
