@@ -72,12 +72,13 @@ Contributions across:
 - ✨ TermUI
 - 🎀 CodeGraphContext
 
-### Impact
+## Open Source Impact
 
-- 🔥 59+ Pull Requests Opened
-- ✅ 29 Merged Contributions
-- 📦 8+ Repositories Contributed To
-- 🛠️ 37 Issues Resolved
+- 🔥 192 Pull Requests Opened
+- ✅ 160 Merged Pull Requests
+- 🛠️ 139 Issues Resolved
+- 📌 170 Issues Created
+- 🚀 Active Contributor across Multiple Open Source Projects
 
 Areas I enjoy working in:
 
