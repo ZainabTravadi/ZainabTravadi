@@ -72,7 +72,7 @@ Contributions across:
 - ✨ TermUI
 - 🎀 CodeGraphContext
 
-## Open Source Impact
+### Impact
 
 - 🔥 192 Pull Requests Opened
 - ✅ 160 Merged Pull Requests
