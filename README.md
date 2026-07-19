@@ -27,7 +27,7 @@ interested in **api infrastructure, developer tooling, and scalable systems** (a
 
 ## 🏗 Featured Projects
 
-### ⚡ TokenWatch
+### ⚡ TokenWatcher
 Multi-tenant observability platform for monitoring LLM usage, token consumption, and API costs.
 
 **Stack:** TypeScript • React • Express • PostgreSQL
