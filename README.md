@@ -18,12 +18,12 @@ interested in **api infrastructure, developer tooling, and scalable systems** (a
 🌸 Portfolio: [Click here](https://zainab-travadis-portfolio.vercel.app/)
 
 ## 💌 Currently
-
-- 🌱 Open Source Contributor — GSSoC 2026
+- 🔎 Building **HackRadar**, an open-source platform for discovering hackathons worldwide
+- 🤝 Building and growing the **HackRadar open-source community & Fellowship**
+- 🌱 Contributing to production-grade open-source projects
 - ⚡ Building backend-focused products and developer tools
 - 🧠 Practicing DSA & system design
-- 🔧 Contributing to production-grade open source repositories
-- 🚀 Shipping TokenWatch, RateGuard, and AlumniNet
+- 🚀 Exploring opportunities to build technology that creates access for other students
 
 ## 🏗 Featured Projects
 
