@@ -27,6 +27,11 @@ interested in **api infrastructure, developer tooling, and scalable systems** (a
 
 ## 🏗 Featured Projects
 
+### 🔎 HackRadar | Open-Source Hackathon Discovery Platform
+Open-source hackathon discovery platform aggregating hackathons worldwide into one searchable, filterable platform for builders and students.
+
+**Stack:** React • TypeScript • Node.js • PostgreSQL • Drizzle ORM • Playwright • Cheerio • Vite • Tailwind CSS
+
 ### ⚡ TokenWatcher
 Multi-tenant observability platform for monitoring LLM usage, token consumption, and API costs.
 
